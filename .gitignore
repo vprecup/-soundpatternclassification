@@ -1,5 +1,6 @@
 # Data folder
 mfcc_numpy/
+mfcc_weka/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
